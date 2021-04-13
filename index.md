@@ -2,10 +2,7 @@
 
 
 
-
+<div>
 <!-------Do not change below this line-------><div align="center"><iframe align="center" src="//widget.calendarlabs.com/v1/quot.php?cid=101&ver=1.2&uid=7945524562&c=inspirational&l=en&cbg=FFFFFF&cb=1&cbc=000000&cf=calibri&cfg=000000&qfs=bi&qta=center&tfg=000000&tfs=bi&afc=000000&afs=i" width="188" height="210" marginwidth=0 marginheight=0 frameborder=no scrolling=no allowtransparency='true'>Loading...</iframe><div align="center" style="width:140px;font-size:10px;color:#333;">Daily Quotes by <a href="https://www.calendarlabs.com/" target="_blank" rel="nofollow" style="font-size:10px;text-decoration:none;color:#333;">CalendarLabs</a></div></div><!-------Do not change above this line------->
+</div>
 
-
-
-
-<iframe width="300" height="154" src="https://w2.countingdownto.com/3546360" frameborder="0"></iframe>
